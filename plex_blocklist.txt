@@ -1,0 +1,6 @@
+! Plex Privacy
+! Homepage: https://github.com/apinner/PlexPrivacy
+||together.plex.tv
+||epg.provider.plex.tv
+||community.plex.tv^
+||subpub.plex.tv^
