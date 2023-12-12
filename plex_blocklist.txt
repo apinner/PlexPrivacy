@@ -1,6 +1,11 @@
 ! Plex Privacy
+! Block list of unecessary plex.tv domains
 ! Homepage: https://github.com/apinner/PlexPrivacy
-||together.plex.tv
-||epg.provider.plex.tv
+||analytics.plex.tv^
 ||community.plex.tv^
-||subpub.plex.tv^
+||pubsub.plex.tv^
+||together.plex.tv^
+||discover.plex.tv^
+||discover.provider.plex.tv^
+||features.plex.tv^
+||epg.provider.plex.tv^
